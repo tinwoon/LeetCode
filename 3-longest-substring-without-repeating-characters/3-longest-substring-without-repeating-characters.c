@@ -11,8 +11,8 @@ int lengthOfLongestSubstring(char * s){
             if(character[s[j]]) break;
             character[s[j]] = 1;
             size++;
-            ret = MAX(ret, size);
         }
+        ret = MAX(ret, size);
     }
     return ret;
 }
