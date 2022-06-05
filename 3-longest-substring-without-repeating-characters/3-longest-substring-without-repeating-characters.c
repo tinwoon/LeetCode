@@ -1,6 +1,3 @@
-//투포인터 문제인 것 같음.
-//나중에 코드 변경 필요
-
 #define MAX(a, b) ((a > b) ? a : b)
 
 int lengthOfLongestSubstring(char * s){
