@@ -8,8 +8,7 @@ public:
     string intToRoman(int num) {
         std::string ans;
         
-        while(num!=0){
-            
+        while(num){
             for(int k=0; k<13; k++){
                 if(num / data[k]){
                     ans+= symbol[k];
