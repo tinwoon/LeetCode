@@ -1,8 +1,8 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        std::string s = "";
         if(strs.size() == 1) return strs[0];
+        std::string s = "";
         for(int i=0; i <= strs[0].size(); i++){
             char prefix_c = strs[0][i];
             for(int j = 1; j < strs.size(); j++){
