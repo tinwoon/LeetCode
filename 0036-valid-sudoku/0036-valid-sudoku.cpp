@@ -40,6 +40,7 @@ public:
     bool isValidSudoku(vector<vector<char>>& board) {
         for(int i=0; i < 9; i++){
             for(int j=0; j<9; j++){
+                if(board[i][j] == '.') continue;
                 if(!row(i,j,board) || !col(i,j,board) || !block(i,j,board)) return false;
             }
         }
