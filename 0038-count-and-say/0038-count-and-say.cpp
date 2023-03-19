@@ -3,8 +3,8 @@ public:
     //재귀 순환으로 풀이
     //이전과 일치하지 않는 새로운 숫자가 발견될 때 container에 prv를 넣어줘야 함을
     //고려하지 못함(line 20)
-    string validate(string prs, int n, int N){
-        if(n == N) return prs;
+    string validate(string prs, int n){
+        if(n == 1) return prs;
         
         std::string ans = "";
         std::vector<char> container; 
@@ -26,10 +26,10 @@ public:
         ans.push_back((container.size()) + '0');
         ans.push_back(container.back());
                 
-        return validate(ans, n+1, N);
+        return validate(ans, n-1);
     }
     
     string countAndSay(int n) {
-        return validate("1", 1, n);
+        return validate("1", n);
     }
 };
