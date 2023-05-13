@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<int> gnums, visited;
+    vector<int>  gnums;
+    vector<bool> visited;
     
     bool dfs(int idx){
         if(idx == gnums.size() - 1) return true;
@@ -10,7 +11,7 @@ public:
         for(int k = 1; k <= gnums[idx]; k++){
             int n_idx = idx + k;
             if(n_idx < gnums.size()){
-                if(visited[n_idx] == 0) ret = dfs(n_idx);
+                if(!visited[n_idx]) ret = dfs(n_idx);
                 if(ret) return true;
             }
         }
@@ -18,7 +19,7 @@ public:
     }
     
     bool canJump(vector<int>& nums) {
-        gnums =  nums;
+        gnums = nums;
         visited.assign(nums.size(), false);
         
         return nums.size() == 1 ? true : dfs(0);
