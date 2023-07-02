@@ -17,8 +17,6 @@ public:
         calculate(level - 1, idx, nums);
         //추가
         calculate(level - 1, idx | (1<<(nums.size() - level)), nums);
-
-
     }
     
     vector<vector<int>> subsets(vector<int>& nums) {
