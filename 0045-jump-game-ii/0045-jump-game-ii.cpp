@@ -1,8 +1,5 @@
 class Solution {
 public:
-    
-    
-    
     int calculate(vector<int>& nums){
         
         std::queue< std::pair<int, int> > q;
