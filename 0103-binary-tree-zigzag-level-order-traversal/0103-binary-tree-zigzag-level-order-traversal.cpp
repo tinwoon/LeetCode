@@ -33,7 +33,6 @@ public:
         ret[0] = std::vector<int>{root->val};
         
         for(auto itr = data.begin(); itr != data.end(); itr++){
-            printf("%d\n", (itr->second)[0]);
             if(revert){
                 std::reverse(itr->second.begin(), itr->second.end());
             } 
