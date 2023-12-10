@@ -31,12 +31,10 @@ public:
                 c_node->random = nullptr;
                 visited.emplace(node);
                 origin_copy_map[node] = c_node;
-            }else{
-                c_node = origin_copy_map[node];
-            }
+            }else c_node = origin_copy_map[node];
             
             if(node->next != nullptr){
-                    if(!visited.count(node->next)){
+                if(!visited.count(node->next)){
                         Node* c_n_node =(Node*)malloc(sizeof(Node));
                         c_n_node->val = node->next->val;
                         c_node->next = c_n_node;
@@ -44,9 +42,7 @@ public:
                         c_n_node->random = nullptr;
                         visited.emplace(node->next);
                         origin_copy_map[node->next] = c_n_node;
-                    }else{
-                        c_node->next = origin_copy_map[node->next];
-                    }
+                    }else c_node->next = origin_copy_map[node->next];
                 }
                 
                 if(node->random != nullptr){
@@ -58,9 +54,7 @@ public:
                         c_r_node->random = nullptr;
                         visited.emplace(node->random);
                         origin_copy_map[node->random] = c_r_node;
-                    }else{
-                        c_node->random = origin_copy_map[node->random];
-                    }
+                    }else c_node->random = origin_copy_map[node->random];
                 }
             
             node = node->next;
