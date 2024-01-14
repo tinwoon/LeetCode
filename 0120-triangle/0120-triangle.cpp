@@ -6,10 +6,6 @@ public:
     int calculate(int level, int j){
         if(dp[level][j] != INT_MAX) return dp[level][j];
         
-        if(j+1 >= trngl[level + 1].size()){
-            return dp[level][j] = calculate(level + 1, j) + trngl[level][j];
-        }
-        
         return dp[level][j] = std::min(calculate(level + 1, j), calculate(level + 1, j+1)) + trngl[level][j];
     }
     
