@@ -23,7 +23,6 @@ public:
         ret &= search(p -> right, q -> right);
         
         return ret;
-        
     }
     
     bool isSameTree(TreeNode* p, TreeNode* q) {
