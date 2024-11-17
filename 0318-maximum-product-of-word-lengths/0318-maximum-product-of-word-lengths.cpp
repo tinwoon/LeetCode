@@ -3,12 +3,7 @@ public:
     std::vector<int> words_mask;
     int ans = 0;
     
-    static bool compare(string a, string b){
-        return a.length() > b.length();
-    }
-    
     int maxProduct(vector<string>& words) {
-        std::sort(words.begin(), words.end(), compare);
         words_mask.assign(words.size(), 0);
         
         for(int i=0; i < words.size(); i++){
