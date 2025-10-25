@@ -20,4 +20,8 @@ Algorithm Study for LeetCode
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/tinwoon/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
