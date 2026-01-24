@@ -8,10 +8,12 @@ Algorithm Study for LeetCode
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Stack
 |  |
@@ -37,4 +39,8 @@ Algorithm Study for LeetCode
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
