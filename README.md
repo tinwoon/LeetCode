@@ -10,6 +10,7 @@ Algorithm Study for LeetCode
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 <!---LeetCode Topics End-->
