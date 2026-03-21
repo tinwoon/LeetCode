@@ -41,6 +41,7 @@ Algorithm Study for LeetCode
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0339-nested-list-weight-sum](https://github.com/tinwoon/LeetCode/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0339-nested-list-weight-sum](https://github.com/tinwoon/LeetCode/tree/main/0339-nested-list-weight-sum/) | Medium |
 <!---LeetCode Topics End-->
