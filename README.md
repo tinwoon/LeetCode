@@ -10,6 +10,7 @@ Algorithm Study for LeetCode
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/tinwoon/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +66,20 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0339-nested-list-weight-sum](https://github.com/tinwoon/LeetCode/tree/main/0339-nested-list-weight-sum/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
