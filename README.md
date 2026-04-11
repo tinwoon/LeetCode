@@ -6,6 +6,7 @@ Algorithm Study for LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
@@ -48,6 +49,7 @@ Algorithm Study for LeetCode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -82,4 +84,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
