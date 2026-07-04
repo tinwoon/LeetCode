@@ -10,6 +10,7 @@ Algorithm Study for LeetCode
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
+| [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -62,6 +63,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -104,4 +106,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tinwoon/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 <!---LeetCode Topics End-->
