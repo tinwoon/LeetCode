@@ -15,6 +15,7 @@ Algorithm Study for LeetCode
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tinwoon/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
@@ -37,12 +38,14 @@ Algorithm Study for LeetCode
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/tinwoon/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tinwoon/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -115,6 +118,7 @@ Algorithm Study for LeetCode
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tinwoon/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -124,4 +128,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tinwoon/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
