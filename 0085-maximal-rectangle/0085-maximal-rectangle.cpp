@@ -16,8 +16,6 @@ public:
                         max_col = std::min(max_col, x - j + 1);
                         ans = std::max(ans, max_col * (y++ - i + 1));
                     }
-
-                    printf("max_col : %d, y : %d, i : %d\n", max_col, y, i);
                 }
             }
         }
