@@ -6,6 +6,7 @@ Algorithm Study for LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -22,16 +23,19 @@ Algorithm Study for LeetCode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +114,7 @@ Algorithm Study for LeetCode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tinwoon/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
