@@ -12,6 +12,7 @@ Algorithm Study for LeetCode
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
+| [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -25,6 +26,7 @@ Algorithm Study for LeetCode
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Stack
@@ -60,6 +62,7 @@ Algorithm Study for LeetCode
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/tinwoon/LeetCode/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tinwoon/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -137,4 +140,12 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
