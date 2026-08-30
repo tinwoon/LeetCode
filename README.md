@@ -15,6 +15,7 @@ Algorithm Study for LeetCode
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -27,6 +28,7 @@ Algorithm Study for LeetCode
 | [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/tinwoon/LeetCode/tree/master/2426-maximum-profit-from-trading-stocks) |
 ## Stack
@@ -43,6 +45,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/tinwoon/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
@@ -148,4 +151,16 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
