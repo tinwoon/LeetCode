@@ -11,6 +11,7 @@ Algorithm Study for LeetCode
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
+| [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
@@ -163,4 +165,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
