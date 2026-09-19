@@ -6,6 +6,7 @@ Algorithm Study for LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/tinwoon/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -52,6 +53,7 @@ Algorithm Study for LeetCode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/tinwoon/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
