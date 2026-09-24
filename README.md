@@ -54,6 +54,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/tinwoon/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0127-word-ladder](https://github.com/tinwoon/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
@@ -62,12 +63,14 @@ Algorithm Study for LeetCode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/tinwoon/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tinwoon/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/tinwoon/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/tinwoon/LeetCode/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
@@ -171,4 +174,8 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/tinwoon/LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
