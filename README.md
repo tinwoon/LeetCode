@@ -17,6 +17,7 @@ Algorithm Study for LeetCode
 | [0322-coin-change](https://github.com/tinwoon/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
+| [0835-image-overlap](https://github.com/tinwoon/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -128,6 +129,7 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0835-image-overlap](https://github.com/tinwoon/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tinwoon/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
