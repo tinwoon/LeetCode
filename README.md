@@ -18,6 +18,7 @@ Algorithm Study for LeetCode
 | [0503-next-greater-element-ii](https://github.com/tinwoon/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0753-open-the-lock](https://github.com/tinwoon/LeetCode/tree/master/0753-open-the-lock) |
 | [0835-image-overlap](https://github.com/tinwoon/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/tinwoon/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/tinwoon/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -95,6 +96,7 @@ Algorithm Study for LeetCode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tinwoon/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ Algorithm Study for LeetCode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@ Algorithm Study for LeetCode
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tinwoon/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Linked List
@@ -151,6 +155,7 @@ Algorithm Study for LeetCode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/tinwoon/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -180,4 +185,12 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/tinwoon/LeetCode/tree/main/0127-word-ladder/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
