@@ -10,6 +10,7 @@ Algorithm Study for LeetCode
 | [0085-maximal-rectangle](https://github.com/tinwoon/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/tinwoon/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/tinwoon/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0249-group-shifted-strings](https://github.com/tinwoon/LeetCode/tree/main/0249-group-shifted-strings/) | Medium |
 | [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
@@ -87,6 +88,7 @@ Algorithm Study for LeetCode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0229-majority-element-ii](https://github.com/tinwoon/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/tinwoon/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0280-wiggle-sort](https://github.com/tinwoon/LeetCode/tree/main/0280-wiggle-sort/) | Medium |
@@ -109,6 +111,7 @@ Algorithm Study for LeetCode
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@ Algorithm Study for LeetCode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tinwoon/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/tinwoon/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
@@ -202,4 +206,20 @@ Algorithm Study for LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/tinwoon/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/tinwoon/LeetCode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
